@@ -1,0 +1,32 @@
+{
+  "name": "firstwin",
+  "version": "0.0.0",
+  "description": "tweets you when your League of Legends summoner's first win is available",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/insanity54/firstwin.git"
+  },
+  "keywords": [
+    "leagueoflegends",
+    "videogame",
+    "tweet"
+  ],
+  "author": "Chris Grimmett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/insanity54/firstwin/issues"
+  },
+  "dependencies": {
+    "nconf": "~0.6.9",
+    "express": "~4.9.0",
+    "nunjucks": "~1.0.7",
+    "restler": "~3.2.2",
+    "legends": "~1.1.0",
+    "league-api": "~1.0.2"
+  }
+}
