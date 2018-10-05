@@ -22,13 +22,13 @@
     "url": "https://github.com/insanity54/firstwin/issues"
   },
   "dependencies": {
-    "express": "~4.9.0",
+    "express": "~4.16.3",
     "gnar": "0.0.2",
-    "league-api": "~1.0.2",
+    "league-api": "~2.0.0",
     "legends": "~1.1.0",
-    "nconf": "~0.6.9",
-    "nunjucks": "~1.0.7",
-    "redis": "^0.12.1",
-    "restler": "~3.2.2"
+    "nconf": "~0.10.0",
+    "nunjucks": "~3.1.3",
+    "redis": "^2.8.0",
+    "restler": "~3.4.0"
   }
 }
