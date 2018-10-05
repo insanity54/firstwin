@@ -1,6 +1,8 @@
 firstwin
 ========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/insanity54/firstwin.svg)](https://greenkeeper.io/)
+
 Tweets you when your league of legends summoner's first win of the day is available
 
 
